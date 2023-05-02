@@ -1,3 +1,6 @@
+//Сделано RedFoxMain 
+//Git hub: https://github.com/RedFoxMain
+
 #include <string>
 #include <iostream>
 #include <fstream>
